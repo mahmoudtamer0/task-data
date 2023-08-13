@@ -1,3 +1,13 @@
 {
-  "bills": []
+  "bills": [
+    {
+      "id": 1,
+      "item_code": 2131232,
+      "item_name": "djkw",
+      "price": 10,
+      "quantity": 4,
+      "house": "الرئيسي",
+      "discount": 0
+    }
+  ]
 }
