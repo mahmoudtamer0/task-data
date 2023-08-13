@@ -8,6 +8,24 @@
       "quantity": 4,
       "house": "الرئيسي",
       "discount": 0
+    },
+    {
+      "id": 2,
+      "item_code": 2131232,
+      "item_name": "تيتشص",
+      "price": 4,
+      "quantity": 80,
+      "house": "الرئيسي",
+      "discount": 0
+    },
+    {
+      "id": 3,
+      "item_code": 2131232,
+      "item_name": "يمشنص",
+      "price": 40,
+      "quantity": 6,
+      "house": "الرئيسي",
+      "discount": 0
     }
   ]
 }
