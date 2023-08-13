@@ -7,6 +7,8 @@
       "price": 10,
       "quantity": 4,
       "house": "الرئيسي",
+      "seller_name": "mahmoud",
+      "buyer_name": "ahmed",
       "discount": 0
     },
     {
@@ -16,6 +18,8 @@
       "price": 4,
       "quantity": 80,
       "house": "الرئيسي",
+      "seller_name": "mahmoud",
+      "buyer_name": "ahmed",
       "discount": 0
     },
     {
@@ -25,6 +29,8 @@
       "price": 40,
       "quantity": 6,
       "house": "الرئيسي",
+      "seller_name": "mahmoud",
+      "buyer_name": "ahmed",
       "discount": 0
     }
   ]
