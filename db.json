@@ -9,6 +9,7 @@
       "house": "الرئيسي",
       "seller_name": "mahmoud",
       "buyer_name": "ahmed",
+      "bill_date": "11-8-2023",
       "discount": 0
     },
     {
@@ -20,6 +21,7 @@
       "house": "الرئيسي",
       "seller_name": "mahmoud",
       "buyer_name": "ahmed",
+      "bill_date": "11-8-2023",
       "discount": 0
     },
     {
@@ -31,6 +33,7 @@
       "house": "الرئيسي",
       "seller_name": "mahmoud",
       "buyer_name": "ahmed",
+      "bill_date": "11-8-2023",
       "discount": 0
     }
   ]
